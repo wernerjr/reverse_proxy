@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "route": "/omnistack",
+        "address": "http://localhost:3333"
+      },
+      {
+        "route": "/web",
+        "address": "http://localhost:3000"
+      }
+    ]
+  }
